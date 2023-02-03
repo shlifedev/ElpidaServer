@@ -1,0 +1,12 @@
+{
+  "name": "ElpidaServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shlifedev/ElpidaServer.git",
+  "author": "shlifedev <shlifedev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/ws": "^8.5.4",
+    "ws": "^8.12.0"
+  }
+}
